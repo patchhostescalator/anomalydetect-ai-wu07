@@ -1,4 +1,4 @@
-# 
+# Nativo AnomalyDetect baixador. Baixe e instale com código aberto e interface gráfica — rápido, seguro e fácil de usar.
 
 
 
